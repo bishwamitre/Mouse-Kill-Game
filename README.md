@@ -17,4 +17,4 @@ A simple Pygame demo where a angry mouse image moves to a random location within
 3. Run the script: `python main.py`
 
 ### Screenshot
-![Homepage](Screenshot.png)
+![Homepage](screenshot.png)
